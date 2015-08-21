@@ -7,6 +7,6 @@ To execute run_analysis.R, extract the UCI HAR Dataset found [here](https://d396
 
 Then simply type run_analysis() in R (you will probably want to assign the output to a variable), the code will handle the rest.
 
-This dataset was downloaded for use with run_analysis.R on 8/08/2015 at 2:55AM and was produced by:
+This dataset was downloaded for use with run_analysis.R on 8/08/2015 at 2:55AM PST and was produced by:
 
 Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
